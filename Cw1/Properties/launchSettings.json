@@ -2,7 +2,7 @@
   "profiles": {
     "Cw1": {
       "commandName": "Project",
-      "commandLineArgs": "\"https://www.pja.edu.pl/\""
+      "commandLineArgs": "\"https://en.wikipedia.org/wiki/Main_Page\""
     }
   }
 }
